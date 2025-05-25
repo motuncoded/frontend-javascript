@@ -1,4 +1,3 @@
-// create a readme file for the task_0 folder
 
 # Task 0: TypeScript Basics
 
@@ -31,3 +30,5 @@ This task covers the basics of TypeScript, including interfaces, types, and basi
 5. Ensure that the TypeScript code is transpiled to JavaScript using the provided `tsconfig.json`.
 6. Bundle the application using Webpack with the provided `webpack.config.js`.
 7. Test the application in a web browser to ensure that the student information is displayed correctly.
+
+
